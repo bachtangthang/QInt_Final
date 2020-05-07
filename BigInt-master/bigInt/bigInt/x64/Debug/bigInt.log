@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  QInt.cpp
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(45,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(178,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(204,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(234,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(258,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(283,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(285,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(394): warning C4715: 'QInt::operator<': not all control paths return a value
+  bigInt.vcxproj -> C:\Users\DELL\Desktop\BigInt-master\bigInt\x64\Debug\bigInt.exe
